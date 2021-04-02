@@ -2,7 +2,7 @@
 <img align="center" height="auto" src="https://i.ibb.co/FJm5p9P/images.jpg"/>
 
 <p align="center">
-###📫 Follow Me On
+📫 Follow Me On
 </p>
 
 <p align="center">
