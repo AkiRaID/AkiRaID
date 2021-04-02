@@ -16,6 +16,10 @@
 ![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AkiRaID&show_icons=true&theme=highcontrast&show_owner=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiRaID&layout=compact&theme=highcontrast)
 
+### 💻 Project
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkiRaID&repo=selfbot-lolhuman&theme=highcontrast)](https://github.com/AkiRaID/selfbot-lolhuman)
+
 ### 🏆 Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=AkiRaID&row=2&column=3&layout=compact&theme=onedark)
@@ -29,6 +33,9 @@
 </p>
 
 ---
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
 
 <!--START_SECTION:waka-->
 
