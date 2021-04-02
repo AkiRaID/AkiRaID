@@ -9,7 +9,7 @@
 
 ![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AkiRaID&show_icons=true&theme=radical&show_owner=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiRaID&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiRaID&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=AkiRaID&row=2&column=3)
 
 ---
