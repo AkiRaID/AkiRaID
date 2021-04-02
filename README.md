@@ -1,8 +1,6 @@
 ## Hello IM Akira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">😎
 <img align="center" height="auto" src="https://i.ibb.co/FJm5p9P/images.jpg"/>
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 ### 📫 Follow Me On
 <a href="https://www.instagram.com/akirashopreal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
