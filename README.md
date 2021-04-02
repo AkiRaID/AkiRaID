@@ -19,6 +19,11 @@
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkiRaID" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkiRaID&label=VIEWS&style=flat-square&color=orange" />
+</p>
+
 ---
 
 <!--START_SECTION:waka-->
