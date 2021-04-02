@@ -7,9 +7,9 @@
 <a href="https://wa.me/6282158549899" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 
-![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AkiRaID&show_icons=true&theme=radical&show_owner=Akira)
+![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AkiRaID&show_icons=true&theme=radical&show_owner=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiRaID&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiRaID&theme=dark)
 ![](https://github-profile-trophy.vercel.app/?username=AkiRaID&row=2&column=3)
 
 ---
