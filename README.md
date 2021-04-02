@@ -10,7 +10,9 @@
 ![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AkiRaID&show_icons=true&theme=highcontrast&show_owner=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiRaID&layout=compact&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=AkiRaID&row=2&column=3&layout=compact&theme=onedark)
-
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkiRaID" />
+</p>
 ---
 
 <!--START_SECTION:waka-->
