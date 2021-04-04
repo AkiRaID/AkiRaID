@@ -18,6 +18,8 @@
 
 ### 💻 Bot Wa
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkiRaID&repo=akirabotv1&theme=highcontrast)](https://github.com/AkiRaID/akirabotv1)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkiRaID&repo=selfbot-lolhuman&theme=highcontrast)](https://github.com/AkiRaID/selfbot-lolhuman)
 
 ### 🏆 Trophy
