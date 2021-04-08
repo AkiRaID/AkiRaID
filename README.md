@@ -13,8 +13,8 @@
 
 ### 📉 Stats
 
-![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AkiRaID&show_icons=true&theme=highcontrast&show_owner=true)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiRaID&theme=highcontrast)
+![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AkiRaID&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiRaID&layout=compact&theme=highcontrast)
 
 ### 💻 Bot Wa
 
