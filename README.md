@@ -1,4 +1,7 @@
 ## Hello IM Akira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
+<a href="https://github.com/AkiRaID"><img src="https://cardivo.vercel.app/api?name=AkiRaID&description=Hi,%20i%27m%20Akira%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/5RPyj6D/Ivan.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@muhammadreihansaputra27&github=AkiRaID&pattern=leaf&colorPattern=%23eaeaea" /><a>
+</p>
+
 ### [`👇  INTRO MY SELF`](https://akiraapi.herokuapp.com)
 ```
 Intro =
