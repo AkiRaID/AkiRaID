@@ -1,5 +1,20 @@
-## Hello IM Akira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px"> 
-<img align="center" height="auto" src="https://i.ibb.co/FJm5p9P/images.jpg"/>
+## Hello IM Akira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
+### [`👇  INTRO MY SELF`](https://akiraapi.herokuapp.com)
+```
+Intro =
+
+"Name": "Muhammad Reihan Saputra",
+"Status": "Learning",
+"Address": "Katingan Tengah, Kalimantan Tengah, Indonesia",
+"Birthday": "January - 27"
+   
+  "Big Thanks To"
+   "- Allah SWT"
+   "- The Last Generation"
+   "- And My Friends"
+```
+___
+
 
 <p align="center">
 📫 Follow Me On
